@@ -1,0 +1,130 @@
+
+/* MEDIA QUERIES */
+@media screen and (max-width: 600px) {
+	.mobile-show {
+		display:table !important;
+	}
+  .mobile-hide {
+    display: none !important;
+  }
+  .mobile-center {
+    text-align: center !important;
+  }
+  .mobile-table {
+    width: 100% !important;
+  }
+  .mobile-table-90 {
+    width: 90% !important;
+  }
+
+  .mobile-table-93 {
+    width: 93% !important;
+  }
+  .intro-callout {
+    height: 35px !important;
+  }
+	.footer-gutter {
+		width: 14px !important;
+  }
+
+  .hero-text {
+    font-size: 23px !important;
+  }
+
+  .intro {
+    background-color: #F3F3F3 !important;
+  }
+
+  .callout {
+    background: #ffffff !important;
+  }
+
+  .m-td-w {
+    width: 33px !important;
+  }
+
+  .whitecolor{
+    color: #ffffff !important;
+    font-weight: bold !important;
+  }
+  .adjustpad{
+    padding-bottom: 20px !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+  .acenter{
+    text-align: left !important;
+    padding-bottom: 10px !important;
+  }
+  .aacenter{
+    text-align: left !important;
+  }
+  .f12{
+    line-height: 20px !important;
+  }
+  .adpad{
+    padding-top: 30px !important;
+  }
+  .adpad1{
+    padding-top: 15px !important;
+  }
+  .adpad2{
+    padding-bottom: 8px !important;
+  }
+  .adpad3{
+    padding-top: 8px !important;
+    padding-bottom: 12px !important;
+  }
+  .adpad4{
+    padding-top: 12px !important;
+    padding-bottom: 12px !important;
+  }
+  .changewidth{
+    width: 109px !important;
+  }
+  .f9{
+    font-size: 12.5px !important;
+    line-height: 19px !important;
+  }
+  .f10{
+    font-size: 13px !important;
+    line-height: 19px !important; 
+  }
+  .f14{
+    font-size: 17px !important;
+    line-height: 21px !important;
+  }
+  .f13{
+    font-size: 16px !important;
+    line-height: 23px !important;
+  }
+  .f23{
+    font-size: 28px !important;
+    line-height: 33px !important;
+  }
+  .f17{
+    line-height: 23px !important;
+  }
+  .paddin{
+    padding-top: 1px !important;
+  }
+  .f12{
+    font-size: 15px !important;
+    line-height: 20px !important;
+  }
+  .f15{
+    font-size: 16px !important;
+  }
+  .bullet {
+    font-weight: normal !important;
+    line-height: 18px !important;
+  }
+  .decnone{
+    text-decoration: none !important;
+  }
+}
+
+@font-face {font-family: 'HelveticaNeue';src: url('fonts/HelveticaNeue.woff') format('woff');font-weight: normal;}
+@font-face {font-family: 'HelveticaNeue-Bold';src: url('fonts/HelveticaNeue-Bold.woff') format('woff');font-weight: normal;}
+@font-face {font-family: 'BarlowCondensed-Regular';src: url('fonts/BarlowCondensed-Regular.woff') format('woff');font-weight: normal;}
+@font-face {font-family: 'Barlow-Regular';src: url('fonts/Barlow-Regular.woff') format('woff');font-weight: normal;}

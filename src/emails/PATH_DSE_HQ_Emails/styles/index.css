@@ -1,0 +1,109 @@
+
+/* MEDIA QUERIES */
+@media screen and (max-width: 600px) {
+	.mobile-show {
+		display:table !important;
+	}
+  .mobile-hide {
+    display: none !important;
+  }
+  .mobile-center {
+    text-align: center !important;
+  }
+  .mobile-table {
+    width: 100% !important;
+  }
+  .mobile-table-90 {
+    width: 90% !important;
+  }
+
+  .mobile-table-93 {
+    width: 93% !important;
+  }
+  .intro-callout {
+    height: 35px !important;
+  }
+	.footer-gutter {
+		width: 14px !important;
+  }
+
+  .hero-text {
+    font-size: 23px !important;
+  }
+
+  .intro {
+    background-color: #F3F3F3 !important;
+  }
+
+  .callout {
+    background: #ffffff !important;
+  }
+
+  .m-td-w {
+    width: 33px !important;
+  }
+
+  .whitecolor{
+    color: #ffffff !important;
+    font-weight: bold !important;
+  }
+  .adjustpad{
+    padding-bottom: 20px !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+  .acenter{
+    text-align: left !important;
+    padding-bottom: 10px !important;
+  }
+  .f12{
+    line-height: 20px !important;
+  }
+  .adpad{
+    padding-top: 10px !important;
+  }
+  .adpad1{
+    padding-top: 15px !important;
+  }
+  .adpad2{
+    padding-bottom: 18px !important;
+    padding-top:5px !important;
+  }
+  .changewidth{
+    width: 109px !important;
+  }
+  .f9{
+    font-size: 13px !important;
+    line-height: 19px !important;
+  }
+  .f10{
+    font-size: 13px !important;
+    line-height: 19px !important; 
+  }
+  .f14{
+    font-size: 17px !important;
+    line-height: 21px !important;
+  }
+  .f17{
+    line-height: 23px !important;
+  }
+  .f12{
+    font-size: 15px !important;
+    line-height: 20px !important;
+  }
+  .f15{
+    font-size: 14px !important;
+  }
+  .bullet {
+    font-weight: normal !important;
+    line-height: 18px !important;
+  }
+  .decnone{
+    text-decoration: none !important;
+  }
+}
+
+@font-face {font-family: 'HelveticaNeue';src: url('fonts/HelveticaNeue.woff') format('woff');font-weight: normal;}
+@font-face {font-family: 'HelveticaNeue-Bold';src: url('fonts/HelveticaNeue-Bold.woff') format('woff');font-weight: normal;}
+@font-face {font-family: 'BarlowCondensed-Regular';src: url('fonts/BarlowCondensed-Regular.woff') format('woff');font-weight: normal;}
+@font-face {font-family: 'Barlow-Regular';src: url('fonts/Barlow-Regular.woff') format('woff');font-weight: normal;}
